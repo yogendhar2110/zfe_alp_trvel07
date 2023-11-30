@@ -20,7 +20,7 @@ builder:
           url: env:ABAP_URL
           auth: basic
           client: env:ABAP_CLIENT
-        credensials:
+        credentials:
           username: env:ABAP_USER
           password: env:ABAP_PASSWORD
         app:
